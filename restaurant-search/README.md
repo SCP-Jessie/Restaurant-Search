@@ -8,6 +8,8 @@ phone number, and rating.
 
 This project gets search results from the Yelp Developer's API. To run this project, make sure that you supply your own Yelp API key in the DiningPlaceController.java which can be obtained from creating an account with Yelp Developers at [this website](https://www.yelp.com/developers).
 
+![](mehungry_web_demo.gif)
+
 ## Front-end
 1. Open a command window and goes to restaurant-search\src\main\web
 2. Run "npm install"
